@@ -68,9 +68,9 @@ export default function Home() {
           bottom: isMobile ? "auto" : "100px",
         }}>
           <LinkBox
-            href="https://hackumbc.typeform.com/to/qM9YbL6E"
-            desc="Apply to be an Organizer for hackUMBC 2026! Applications are open until 10/25."
-            title="Apply to Organize"
+            href="/sign-up"
+            desc="Register for hackUMBC 2025! Registration is now open until 9/25!"
+            title="Sign Up"
           />
           <LinkBox
             href="https://hackumbc-2025.devpost.com/"
